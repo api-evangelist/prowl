@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Prowl is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://prowlapp.com/
+Prowl is a push notification service for iOS devices, allowing developers to send real‑time alerts to iPhones, iPads, and iPod touches. The platform supports integration from macOS, Windows, and various apps, offering a simple HTTP API to trigger notifications. It aims to help apps keep users engaged through timely alerts.
+
+**Areas:** Company · PushNotifications · iOS · API · Mobile
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.prowlapp.com/)
+- [Sign up](https://www.prowlapp.com/register.php)
+- [Privacy policy](https://www.prowlapp.com/privacy.php)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/prowl/](https://apis.io/providers/prowl/).
